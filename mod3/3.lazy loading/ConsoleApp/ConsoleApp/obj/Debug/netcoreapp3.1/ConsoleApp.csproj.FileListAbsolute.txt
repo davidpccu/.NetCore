@@ -1,0 +1,189 @@
+C:\public\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\public\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\public\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\public\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\public\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\public\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\public\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\public\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\public\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\public\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\public\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\public\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\public\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\public\.NetCore\mod3\1.efcore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\public\.NetCore\mod3\2.then include\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\public\.NetCore\mod3\3.lazy loading\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+﻿@model (Microsoft.AspNetCore.Diagnostics.IExceptionHandlerFeature, int)
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Error</title>
+</head>
+<body>
+    <h1>Error</h1>
+    <ul>
+        <li>Excrption: @Model.Item1.Error.GetType()</li>
+        <li>Message: @Model.Item1.Error.Message</li>
+        <li>Status: @Model.Item2</li>
+    </ul>
+</body>
+</html>

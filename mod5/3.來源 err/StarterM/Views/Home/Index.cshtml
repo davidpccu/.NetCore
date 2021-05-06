@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Home</h1>
+
+    <form action="/" method="post">
+        <input type="text" name="number" value="" />
+        <input type="submit" value="double" />
+        @if(ViewBag.result != null)
+        {
+            <span>Result: @ViewBag.result</span>
+        }
+    </form>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<a class="btnĀ btn-primary" routerLink="/create">create</a>
+<table class="table table-striped ">
+    <thead class="thead-dark">
+        <tr>
+            <th>OperaID</th>
+            <th>Title</th>
+            <th>Year</th>
+            <th>Composer</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let opera of operas">
+            <td>
+                {{opera.operaID}}
+            </td>
+            <td>
+                {{opera.title}}
+            </td>
+            <td>
+                {{opera.year}}
+            </td>
+            <td>
+                {{opera.composer}}
+            </td>
+            <td>
+                <a class="btn btn-primary" [routerLink]="['/edit/',opera.operaID]">Edit</a>
+                <button class="btn btn-danger" (click)="onDelete(opera.operaID)">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+</table>

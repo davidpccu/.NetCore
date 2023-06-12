@@ -1,0 +1,18 @@
+List<Customer> customers = new()
+{
+      new Customer {
+        CustomerID ="ALFKI",
+        CompanyName = "Alfreds Futterkiste",
+        Country ="Germany"
+      } ,
+      new Customer {
+        CustomerID ="ANATR",
+        CompanyName = "Ana Trujillo Emparedados y helados",
+        Country ="Mexico"
+      } ,
+      new Customer {
+        CustomerID = "ANTON",
+        CompanyName = "Antonio Moreno Taqueria",
+        Country = "Mexico"
+      }
+ };

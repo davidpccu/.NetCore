@@ -1,0 +1,14 @@
+HomeController.cs
+
+[Route("WriteCookie/{culture=en-us}",Name ="Custom")]
+public IActionResult WriteCookie(string culture)
+{
+    Response.Cookies.Append(CookieRequestCultureProvider.DefaultCookieName,
+        CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(culture)));
+    return RedirectToAction(nameof(Index));
+}
+//===================================================
+/home/index.cshtml
+
+<a asp-route="Custom">en-us</a> |
+<a asp-route="Custom" asp-route-culture="zh-tw">中文</a> |

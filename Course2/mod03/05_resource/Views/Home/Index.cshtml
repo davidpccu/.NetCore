@@ -1,0 +1,32 @@
+﻿@using System.Globalization
+@using Microsoft.AspNetCore.Localization
+@model IRequestCultureFeature
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+
+    <ul>
+        <li>Message: @ViewBag.Message</li>
+    </ul>
+    <ul>
+        <li>Provider: @Model.Provider?.GetType().Name</li>
+        <li>Culture: @Model.RequestCulture.Culture</li>
+    </ul>
+    <ul>
+        <li>Culture: @CultureInfo.CurrentCulture</li>
+        <li>UICulture: @CultureInfo.CurrentUICulture</li>
+        <li>Date: @DateTime.Now.ToLongDateString()</li>
+        <li>Currency: @(88888.ToString("c"))</li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿@model StarterM.Models.Employee
+@using StarterM.Models
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IHtmlLocalizer<Employee> localizer
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Employee</title>
+</head>
+<body>
+    <h1>@localizer["Employee"]</h1>
+    <ul>
+        <li>
+            @Html.DisplayNameFor(m => m.Id):
+            @Html.DisplayFor(m => m.Id)
+        </li>
+        <li>
+            @Html.DisplayNameFor(m => m.Name):
+            @Html.DisplayFor(m => m.Name)
+        </li>
+        <li>
+            @Html.DisplayNameFor(m => m.Age):
+            @Html.DisplayFor(m => m.Age)
+        </li>
+    </ul>
+
+</body>
+</html>

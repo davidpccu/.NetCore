@@ -1,0 +1,34 @@
+﻿@using Microsoft.Extensions.FileProviders
+@model IDirectoryContents
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+    <ul>
+        @foreach (var item in Model)
+        {
+            if (item.IsDirectory)
+            {
+                <li>@item.Name</li>
+            }
+            else
+            {
+                <li><a href="~/home/select?name=@item.Name">@item.Name</a></li>
+            }
+
+        }
+    </ul>
+    <pre>@TempData["result"]</pre>
+
+</body>
+</html>

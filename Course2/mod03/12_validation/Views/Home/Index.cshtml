@@ -1,0 +1,57 @@
+﻿@using System.Globalization
+@using Microsoft.AspNetCore.Localization
+@using Microsoft.AspNetCore.Mvc.Localization
+@using StarterM.Shared
+@using StarterM.Controllers
+@model IRequestCultureFeature
+@inject IViewLocalizer localizer
+@inject IHtmlLocalizer<Common> localizer2
+@inject IHtmlLocalizer<HomeController> localizer3
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+
+
+
+    Route:
+    <a href="/zh-tw">中文</a>  |
+    <a href="/en-us">English</a>   |
+    <a asp-controller="Employee" asp-action="Create">Employee Create</a>
+    <hr>
+
+    <a asp-route="custom">en-us</a> |
+    <a asp-route="custom" asp-route-culture="zh-tw">中文</a> |
+
+    <a asp-controller="Employee">Employee</a>
+
+    <ul>
+        <li>@localizer["CompanyName"]</li>
+        <li>Message: @ViewBag.Message</li>
+        <li>Message2: @ViewBag.Message2</li>
+        <li>Message3: @ViewBag.Message3</li>
+        <li>View: @localizer2["fileNotFound"]</li>
+        <li>Controller: @localizer3["greeting"]</li>
+
+    </ul>
+    <ul>
+        <li>Provider: @Model.Provider?.GetType().Name</li>
+        <li>Culture: @Model.RequestCulture.Culture</li>
+    </ul>
+    <ul>
+        <li>Culture: @CultureInfo.CurrentCulture</li>
+        <li>UICulture: @CultureInfo.CurrentUICulture</li>
+        <li>Date: @DateTime.Now.ToLongDateString()</li>
+        <li>Currency: @(88888.ToString("c"))</li>
+    </ul>
+</body>
+</html>

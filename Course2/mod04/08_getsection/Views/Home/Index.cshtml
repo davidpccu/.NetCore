@@ -1,0 +1,24 @@
+﻿@model StarterM.Models.WebsiteProfile
+@inject IConfiguration config
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+    <a asp-action="getemail">Email</a> | 
+    <a asp-action="getdefault">Default</a>
+    <ul style="background-color: @Model.ThemeColor;">
+        <li>Email: @Model.Email</li>
+        <li>ThemeColor: @Model.ThemeColor</li>
+        <li>View: @config["email"]</li>
+    </ul>
+</body>
+</html>

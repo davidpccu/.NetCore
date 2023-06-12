@@ -1,0 +1,21 @@
+﻿@model StarterM.Models.WebsiteProfile
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+
+    <ul style="background-color: @Model.ThemeColor;">
+        <li>Email: @Model.Email</li>
+        <li>ThemeColor: @Model.ThemeColor</li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,3 @@
+builder.Services.ConfigureApplicationCookie(options => { 
+    options.ExpireTimeSpan = TimeSpan.FromDays(1);
+});

@@ -1,0 +1,22 @@
+﻿@using System.Globalization
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+    <ul>
+        <li>Culture: @CultureInfo.CurrentCulture</li>
+        <li>UICulture: @CultureInfo.CurrentUICulture</li>
+        <li>Date: @DateTime.Now.ToLongDateString()</li>
+        <li>Currency: @(88888.ToString("c"))</li>
+    </ul>
+</body>
+</html>

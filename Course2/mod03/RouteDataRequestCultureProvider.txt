@@ -1,0 +1,26 @@
+1.  Program.cs, RouteDataRequestCultureProvider
+
+var supportedCultures = new[] {
+     new CultureInfo("en-US"),
+     new CultureInfo("zh-TW")
+};
+var options = new RequestLocalizationOptions
+{
+    DefaultRequestCulture = new RequestCulture("en-US"),
+    SupportedCultures = supportedCultures,
+    SupportedUICultures = supportedCultures
+};
+options.RequestCultureProviders.Insert(0, new RouteDataRequestCultureProvider());
+
+app.UseStaticFiles();
+
+app.UseRequestLocalization(options);
+
+app.MapControllerRoute("culture",
+      "{culture=en-us}/{controller=Home}/{action=Index}/{id?}");
+app.MapDefaultControllerRoute();
+==============================================
+2. Home.Index View
+Route:
+<a href="/zh-tw">中文</a> | <a href="/en-us">English</a>
+<hr>
